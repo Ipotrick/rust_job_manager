@@ -1,4 +1,3 @@
-# rust_job_manager
-a simple fast job manager in written rust
+# a rusty job manager
 
-its main use is for my 2d game engine called DAXAD
+A simple fast job manager written in rust for the 2d game engine DAXAD
